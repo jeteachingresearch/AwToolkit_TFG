@@ -1,0 +1,17 @@
+E:\awareness\test-projects\WinFormsAppTest1\WinFormsAppTest1\obj\Debug\net6.0-windows\WinFormsAppTest1.csproj.AssemblyReference.cache
+E:\awareness\test-projects\WinFormsAppTest1\WinFormsAppTest1\obj\Debug\net6.0-windows\WinFormsAppTest1.Form1.resources
+E:\awareness\test-projects\WinFormsAppTest1\WinFormsAppTest1\obj\Debug\net6.0-windows\WinFormsAppTest1.csproj.GenerateResource.cache
+E:\awareness\test-projects\WinFormsAppTest1\WinFormsAppTest1\obj\Debug\net6.0-windows\WinFormsAppTest1.GeneratedMSBuildEditorConfig.editorconfig
+E:\awareness\test-projects\WinFormsAppTest1\WinFormsAppTest1\obj\Debug\net6.0-windows\WinFormsAppTest1.AssemblyInfoInputs.cache
+E:\awareness\test-projects\WinFormsAppTest1\WinFormsAppTest1\obj\Debug\net6.0-windows\WinFormsAppTest1.AssemblyInfo.cs
+E:\awareness\test-projects\WinFormsAppTest1\WinFormsAppTest1\obj\Debug\net6.0-windows\WinFormsAppTest1.csproj.CoreCompileInputs.cache
+E:\awareness\test-projects\WinFormsAppTest1\WinFormsAppTest1\bin\Debug\net6.0-windows\WinFormsAppTest1.exe
+E:\awareness\test-projects\WinFormsAppTest1\WinFormsAppTest1\bin\Debug\net6.0-windows\WinFormsAppTest1.deps.json
+E:\awareness\test-projects\WinFormsAppTest1\WinFormsAppTest1\bin\Debug\net6.0-windows\WinFormsAppTest1.runtimeconfig.json
+E:\awareness\test-projects\WinFormsAppTest1\WinFormsAppTest1\bin\Debug\net6.0-windows\WinFormsAppTest1.dll
+E:\awareness\test-projects\WinFormsAppTest1\WinFormsAppTest1\bin\Debug\net6.0-windows\WinFormsAppTest1.pdb
+E:\awareness\test-projects\WinFormsAppTest1\WinFormsAppTest1\obj\Debug\net6.0-windows\WinFormsAppTest1.dll
+E:\awareness\test-projects\WinFormsAppTest1\WinFormsAppTest1\obj\Debug\net6.0-windows\refint\WinFormsAppTest1.dll
+E:\awareness\test-projects\WinFormsAppTest1\WinFormsAppTest1\obj\Debug\net6.0-windows\WinFormsAppTest1.pdb
+E:\awareness\test-projects\WinFormsAppTest1\WinFormsAppTest1\obj\Debug\net6.0-windows\WinFormsAppTest1.genruntimeconfig.cache
+E:\awareness\test-projects\WinFormsAppTest1\WinFormsAppTest1\obj\Debug\net6.0-windows\ref\WinFormsAppTest1.dll
