@@ -1,0 +1,17 @@
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsControlsManualTesting\bin\Debug\net6.0-windows\AwWidgetsControlsManualTesting.exe
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsControlsManualTesting\bin\Debug\net6.0-windows\AwWidgetsControlsManualTesting.deps.json
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsControlsManualTesting\bin\Debug\net6.0-windows\AwWidgetsControlsManualTesting.runtimeconfig.json
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsControlsManualTesting\bin\Debug\net6.0-windows\AwWidgetsControlsManualTesting.dll
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsControlsManualTesting\bin\Debug\net6.0-windows\AwWidgetsControlsManualTesting.pdb
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsControlsManualTesting\obj\Debug\net6.0-windows\AwWidgetsControlsManualTesting.csproj.AssemblyReference.cache
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsControlsManualTesting\obj\Debug\net6.0-windows\AwWidgetsControlsManualTesting.Form1.resources
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsControlsManualTesting\obj\Debug\net6.0-windows\AwWidgetsControlsManualTesting.csproj.GenerateResource.cache
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsControlsManualTesting\obj\Debug\net6.0-windows\AwWidgetsControlsManualTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsControlsManualTesting\obj\Debug\net6.0-windows\AwWidgetsControlsManualTesting.AssemblyInfoInputs.cache
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsControlsManualTesting\obj\Debug\net6.0-windows\AwWidgetsControlsManualTesting.AssemblyInfo.cs
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsControlsManualTesting\obj\Debug\net6.0-windows\AwWidgetsControlsManualTesting.csproj.CoreCompileInputs.cache
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsControlsManualTesting\obj\Debug\net6.0-windows\AwWidgetsControlsManualTesting.dll
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsControlsManualTesting\obj\Debug\net6.0-windows\refint\AwWidgetsControlsManualTesting.dll
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsControlsManualTesting\obj\Debug\net6.0-windows\AwWidgetsControlsManualTesting.pdb
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsControlsManualTesting\obj\Debug\net6.0-windows\AwWidgetsControlsManualTesting.genruntimeconfig.cache
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsControlsManualTesting\obj\Debug\net6.0-windows\ref\AwWidgetsControlsManualTesting.dll

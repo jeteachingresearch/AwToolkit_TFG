@@ -1,0 +1,15 @@
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsControls\bin\Debug\net6.0-windows\AwWidgetsControls.deps.json
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsControls\bin\Debug\net6.0-windows\AwWidgetsControls.dll
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsControls\bin\Debug\net6.0-windows\AwWidgetsControls.pdb
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsControls\bin\Debug\net6.0-windows\AwWidgetsCore.dll
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsControls\bin\Debug\net6.0-windows\AwWidgetsCore.pdb
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsControls\obj\Debug\net6.0-windows\AwWidgetsControls.csproj.AssemblyReference.cache
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsControls\obj\Debug\net6.0-windows\AwWidgetsControls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsControls\obj\Debug\net6.0-windows\AwWidgetsControls.AssemblyInfoInputs.cache
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsControls\obj\Debug\net6.0-windows\AwWidgetsControls.AssemblyInfo.cs
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsControls\obj\Debug\net6.0-windows\AwWidgetsControls.csproj.CoreCompileInputs.cache
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsControls\obj\Debug\net6.0-windows\AwWidgetsControls.csproj.CopyComplete
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsControls\obj\Debug\net6.0-windows\AwWidgetsControls.dll
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsControls\obj\Debug\net6.0-windows\refint\AwWidgetsControls.dll
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsControls\obj\Debug\net6.0-windows\AwWidgetsControls.pdb
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsControls\obj\Debug\net6.0-windows\ref\AwWidgetsControls.dll

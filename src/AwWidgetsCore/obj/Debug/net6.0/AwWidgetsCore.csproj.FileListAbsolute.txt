@@ -1,0 +1,12 @@
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsCore\bin\Debug\net6.0\AwWidgetsCore.deps.json
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsCore\bin\Debug\net6.0\AwWidgetsCore.dll
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsCore\bin\Debug\net6.0\AwWidgetsCore.pdb
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsCore\obj\Debug\net6.0\AwWidgetsCore.csproj.AssemblyReference.cache
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsCore\obj\Debug\net6.0\AwWidgetsCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsCore\obj\Debug\net6.0\AwWidgetsCore.AssemblyInfoInputs.cache
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsCore\obj\Debug\net6.0\AwWidgetsCore.AssemblyInfo.cs
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsCore\obj\Debug\net6.0\AwWidgetsCore.csproj.CoreCompileInputs.cache
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsCore\obj\Debug\net6.0\AwWidgetsCore.dll
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsCore\obj\Debug\net6.0\refint\AwWidgetsCore.dll
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsCore\obj\Debug\net6.0\AwWidgetsCore.pdb
+C:\Users\joanp\OneDrive\Documents\projects\AwWidgets\AwWidgets\AwWidgetsCore\obj\Debug\net6.0\ref\AwWidgetsCore.dll

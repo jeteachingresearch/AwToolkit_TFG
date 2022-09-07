@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AwWidgetsDemoApp/1.0.0": {
+        "dependencies": {
+          "AwWidgetsControls": "1.0.0",
+          "AwWidgetsCore": "1.0.0"
+        },
+        "runtime": {
+          "AwWidgetsDemoApp.dll": {}
+        }
+      },
+      "AwWidgetsControls/1.0.0": {
+        "dependencies": {
+          "AwWidgetsCore": "1.0.0"
+        },
+        "runtime": {
+          "AwWidgetsControls.dll": {}
+        }
+      },
+      "AwWidgetsCore/1.0.0": {
+        "runtime": {
+          "AwWidgetsCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AwWidgetsDemoApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AwWidgetsControls/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AwWidgetsCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
